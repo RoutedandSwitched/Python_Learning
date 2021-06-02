@@ -12,7 +12,7 @@ def email_is_valid( email ):
 
 
         else:
-            print("This emial seems to be missing a . shithead!!")
+            print("This emial seems to be missing a . DumbAss!!")
             return False;
     else:
      print("Email seems to be missing an @ symbol!!")
